@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+Image Compressing:
+
 (https://tinypng.com/)
 
 # Introduction to GitHub
